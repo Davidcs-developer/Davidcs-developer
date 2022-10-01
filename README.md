@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Pereira</h1>
 <h3 align="center">Software Engineering Student and Backend .NET Developer</h3>
 
-- 🌱 I’m currently learning: **C# - .NET - ASP.NET - SQL Server - Azure**
+- 🌱 I’m currently learning: **C# - .NET - ASP.NET - SQL Server - Azure - .NET MAUI - Xamarin - Entity Framework**
 
 - 📫 Contact me: **david.efpereira19@outlook.com**
 
