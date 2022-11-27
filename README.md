@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente cursando Engenharia de Software<br>Estudando Python e GoLang<br><br>Entusiasta em Arquitetura de Redes<br><br><br>
+I'm currently studying Software Engineering<br>Learn Python and GoLang<br><br>Entusiast in Network Architecture<br><br><br>
 
 
 ## 🌐 Socials:
